@@ -2,6 +2,7 @@
     <string name="app_name">MyDigimind</string>
     <string name="title_home">My Board</string>
     <string name="title_add">New Reminder</string>
+    <string name="title_notifications">Notifications</string>
     <string name="reminder_name">What do you want to remember?</string>
     <string name="when">When do you want to do it?</string>
     <string name="time">At what time?</string>
@@ -13,4 +14,7 @@
     <string name="th">Thursday</string>
     <string name="f">Friday</string>
     <string name="sa">Saturday</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
